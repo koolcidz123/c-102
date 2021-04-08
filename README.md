@@ -1,2 +1,2 @@
 # c-102
-(c-102) libraries to be installed - pip install dropbox and pip install opencv-pyhton
+(c-102) libraries to be installed - <b> pip install dropbox </b> and pip install opencv-pyhton
